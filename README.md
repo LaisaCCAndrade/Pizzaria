@@ -40,8 +40,8 @@ Para visualizar o site, basta abrir o arquivo `index.html` em um navegador da we
 
 Contribuições são bem-vindas! Sinta-se à vontade para fazer sugestões, reportar problemas ou contribuir com novos recursos.
 
-## Créditos ao desenvolvedor principal
+## Desenvolvedor Principal
 
-- Professor Edson Maia
+O Professor Edson Maia foi o desenvolvedor principal deste projeto. Este repositório foi criado com base no trabalho original dele.
 
 Aproveite sua experiência na Pizzaria da Nonna! 🍕✨
